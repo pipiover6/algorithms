@@ -1,4 +1,4 @@
-#problem : there's 16 coins; 15 regular and one special in that it always tosses to heads. 
+#Problem : there's 16 coins in front of you, 15 are regular, but one is special in that in any toss it comes as heads. 
 #You get 15 tosses, after which you need to make a guess on the identity of the special coin. What's your strategy?
 
 import random
